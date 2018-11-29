@@ -1,0 +1,10 @@
+.booklist {
+display:flex;
+align-content:row;
+}
+
+.booklist img{
+  width:100%;
+  height: auto;
+  padding: 5px;
+}
